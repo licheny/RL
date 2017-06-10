@@ -69,6 +69,7 @@ def main_update():
             if done:
                 break
     print("game over")
+    print(qtable)
     envi.destroy()
 
 
